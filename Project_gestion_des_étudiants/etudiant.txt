@@ -1,0 +1,5 @@
+1 ;addi ;ayoub ;1 ;ayoub2023 
+17 ;el ;hamza ;1 ;hamza2023 
+74 ;oui ;nez ;1 ;nezha2023 
+27 ;ad ;med ;1 ;mohamed2023 
+55 ;h ;ismail ;2 ;ismail2023 

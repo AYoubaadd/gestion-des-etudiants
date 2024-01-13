@@ -1,0 +1,10 @@
+1 ;programation_avance_en_c ;1 
+2 ;anglais ;1 
+3 ;analyse_de_donnee ;1 
+4 ;architecture_des_ordinateurs ;1 
+5 ;Francais ;1 
+6 ;Methodes_numerique_pour_lingenieur ;1 
+7 ;Reseaux_informatique ;1 
+8 ;SI_et_Base_de_donnee ;1 
+
+
